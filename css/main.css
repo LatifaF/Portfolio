@@ -1,39 +1,39 @@
 * {
   box-sizing: border-box;
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
-footer{
+footer {
   border-top: 2px solid #ccc;
   padding-top: 10px;
   margin-top: 2px;
 }
 
-.logo{
+.logo {
 width: 30%;
 float: left;
 }
 
-.intoImage{
+.into-image {
   opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
-.super_title{
+.super-title {
 font-size: 40px;
 }
 
-.descreptionTxt{
+.descreption-txt {
   color: #999;
 }
 
-.sub_title{
+.sub-title {
 color: #bbb;
   font-size: 25px;
 text-decoration: underline;
 }
 
-.list_title{
+.list-title {
   color: #777;
   font-size: 20px;
   font-style: italic;
@@ -43,7 +43,7 @@ text-decoration: underline;
   width: 100%;
 }
 
-.social{
+.social {
   display: inline;
 }
 
