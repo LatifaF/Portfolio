@@ -1,0 +1,60 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+}
+
+footer{
+  border-top: 2px solid #ccc;
+  padding-top: 10px;
+  margin-top: 2px;
+}
+
+.logo{
+width: 30%;
+float: left;
+}
+
+.intoImage{
+  opacity: 0.5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.super_title{
+font-size: 40px;
+}
+
+.descreptionTxt{
+  color: #999;
+}
+
+.sub_title{
+color: #bbb;
+  font-size: 25px;
+text-decoration: underline;
+}
+
+.list_title{
+  color: #777;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.projects img {
+  width: 100%;
+}
+
+.social{
+  display: inline;
+}
+
+[class*="zocial-"]:before {
+  color: gray;
+  display: inline-block;
+  font-family: 'zocial', sans-serif;
+  text-shadow: 1px 1px 1px #ddd;
+  width: 2em;
+}
+
